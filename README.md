@@ -1,0 +1,3 @@
+# India Public Equities (Constituents 181 to 210) - 1-Minute Historical Kline Archive
+
+Initializing cloud ingestion pipeline for constituents 181 to 210...
